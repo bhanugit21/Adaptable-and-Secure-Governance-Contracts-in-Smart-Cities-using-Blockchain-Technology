@@ -1,0 +1,20 @@
+1. i will check first python version
+we required python 3.7.2
+
+python is installed 
+
+2. install all given libraries
+
+libraries installation done 
+
+if its not there can u extract files once agai
+
+sir its not bin its in .bin folder
+yes
+one min i will do sir
+can u extract files one more time 
+ok sir
+ 
+3. follow given screenshots 
+
+can u open bin folder
