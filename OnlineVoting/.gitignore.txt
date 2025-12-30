@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Temporary files
+.DS_Store
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
